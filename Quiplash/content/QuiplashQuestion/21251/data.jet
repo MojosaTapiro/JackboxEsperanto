@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "farts",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, farts! If cars ran on farts then I could go from New York to LA on just one smoothie!",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Tutmonda energia krizo tuj finiĝus se ni konstruus aŭtojn kiuj funkcias per <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "403314_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "403312_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

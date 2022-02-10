@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Eat eat eat",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Eat eat eat. (eating) I could settle down with that book. (sfx: oven ding) Whoops my triple turducken is done.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Elpensu tri-vortan titolon de la daŭrigo de la libro \"Manĝu, Preĝu, Amu\"",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374100_0f",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374098_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

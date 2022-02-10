@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "Capoochino|ca-poo-chino",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Well, if a Capoochino grosses you out, I won’t tell you how they froth that foam.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Neniu vere scias, pro kio la prezidento vere abdikis, sed onidire la kialo envolvis kuniklojn kaj <BLANK>",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374661_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374659_0",
+            "n": "PromptAudio"
+        }
+    ]
+}

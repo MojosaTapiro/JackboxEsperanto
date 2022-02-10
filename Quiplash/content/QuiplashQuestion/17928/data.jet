@@ -1,0 +1,44 @@
+{
+    "fields": [
+        {
+            "t": "B",
+            "v": "true",
+            "n": "HasJokeAudio"
+        },
+        {
+            "t": "S",
+            "v": "masturbate|masterbate|masturbait|masterbait",
+            "n": "Keywords"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Author"
+        },
+        {
+            "t": "S",
+            "v": "Yeah, you know they’re always getting their nuts off.",
+            "n": "KeywordResponseText"
+        },
+        {
+            "t": "S",
+            "v": "Io, kiun sciuroj verŝajne faras, kiam neniu rigardas",
+            "n": "PromptText"
+        },
+        {
+            "t": "S",
+            "v": "",
+            "n": "Location"
+        },
+        {
+            "t": "A",
+            "v": "374172_0",
+            "n": "KeywordResponseAudio"
+        },
+        {
+            "t": "A",
+            "v": "374170_0",
+            "n": "PromptAudio"
+        }
+    ]
+}
