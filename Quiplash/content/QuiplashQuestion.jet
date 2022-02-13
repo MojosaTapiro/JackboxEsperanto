@@ -1431,7 +1431,7 @@
             "prompt": "Portraviva konsileto! Ekestigu fajron per froti <BLANK>"
         },
         {
-            "x": true,
+            "x": false,
             "id": 20727,
             "prompt": "La NSA jam enuas spekti nin tajpi tiun-ĉi frazon en la serĉmaŝinon:"
         },
@@ -1443,7 +1443,7 @@
         {
             "x": false,
             "id": 20733,
-            "prompt": "En la estonteco sciencistoj malkovros, ke la sekreto de eterna juneco estas <BLANK>"
+            "prompt": "En la estonteco sciencistoj malkovros, ke la sekreto por eterna juneco estas <BLANK>"
         },
         {
             "x": true,
@@ -1461,7 +1461,7 @@
             "prompt": "Surpriza aĉeto sur la kreditkarta deklaro de UK-organizkomitato"
         },
         {
-            "x": true,
+            "x": false,
             "id": 20705,
             "prompt": "Renomigu ajnan faman literaturan verkon tiel, ke ĝi estu ruinigita per la vorto “pugo(n)”"
         },
@@ -1518,12 +1518,12 @@
         {
             "x": false,
             "id": 20618,
-            "prompt": "Kripa skribaĵo, kiun iu skribis sur vian papermonon"
+            "prompt": "Kripa skribaĵo, kiun vi iam skribis sur monbileton"
         },
         {
             "x": false,
             "id": 20617,
-            "prompt": "Kion vi ofertos al via kelnero anstataŭ pagi se vi forgesis vian monujon?"
+            "prompt": "Kion vi ofertos al via kelnero anstataŭ pago se vi forgesis vian monujon?"
         },
         {
             "x": true,
