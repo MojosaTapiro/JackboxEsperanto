@@ -1,0 +1,26 @@
+[
+    {
+        "title": "LUDU",
+        "action": "doPlayGame",
+        "description": "Kreu ludĉambron & ludu",
+        "value": 0
+    },
+    {
+        "title": "GVIDTABULO",
+        "action": "doLeaderboards",
+        "description": "Montras statistikojn de viaj ĵusaj ludoj",
+        "value": 1
+    },
+    {
+        "title": "AGORDOJ",
+        "action": "doSettings",
+        "description": "Cenzurado, Opcioj por la spektantaro, & pli",
+        "value": 2
+    },
+    {
+        "title": "REEN AL LA LUDARO",
+        "action": "doBackToPack",
+        "description": "Reiru al la ludaro",
+        "value": 3
+    }
+]

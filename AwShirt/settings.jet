@@ -1,0 +1,90 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "AwShirtSettingsWidget",
+    "items": [
+        {
+            "title": "Laŭteco",
+            "type": "Range",
+            "clip": "AwShirtSliderWidget",
+            "width": 1,
+            "source": "Laŭteco",
+            "step": "0.1",
+            "description": "Farigu la ludon LAŬTA aŭ MALLAŬTA."
+        },
+        {
+            "title": "Tuta ekrano",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "FullScreen",
+            "description": "Montrigi la ludon sur la tuta...ekrano."
+        },
+        {
+            "title": "Rapidtrejnado",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtQuickTraining",
+            "description": "Ludantoj pentras tri fojojn anstataŭ kvar, kaj tempo por pentri mallongiĝas. Bona por ludoj partitaj kun la publiko per tuja elsendfluo."
+        },
+        {
+            "title": "Spektantaro",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceOn",
+            "description": "Enŝaltu por permesi al ne-ludantoj aliĝi kaj influi la ludon."
+        },
+        {
+            "title": "Sugestoj de la Spektantaro",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtAudienceSuggestions",
+            "description": "Dum la ludantoj pentras kaj skribas, spektantaro povas endoni sugestojn kiuj aperas surekrane."
+        },
+        {
+            "title": "Plilongigitaj Tempoj",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtExtendedTimers",
+            "description": "Ebligu tre longajn tempojn por ludi. Rekomendita nur por ludoj partitaj kun la publiko per tuja elsendfluo."
+        },
+        {
+            "title": "Postulu Twitch",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtRequireTwitch",
+            "description": "Postulu ke ludantoj estu ensalutita en Twitch por aliĝi al la ludo. Rekomendita nur por ludoj, kiuj estas partitaj kun la publiko per tuja elsendfluo."
+        },
+        {
+            "title": "Permana Cenzuro",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtCensorable",
+            "description": "Permesas al la unue aliĝinta ludanto cenzuri la respondojn de aliaj ludantoj."
+        },
+        {
+            "title": "Komencu la Ludon Nure per la Kontrolilo",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtGamepadStart",
+            "description": "Ludoj devas esti komencita per kontrolilo, ne de la aparatoj de ludantoj."
+        },
+        {
+            "title": "Permesu Kaŝi Ĉambran Paskodon",
+            "type": "Toggle",
+            "clip": "AwShirtToggleWidget",
+            "width": 1,
+            "source": "AwShirtHideRoomCode",
+            "description": "Permesu ke la ĉambra paskodo kaŝeblu por preventi ke ludantoj eniras tro frue. Rekomendita nur por ludoj, kiuj estas partitaj kun la publiko per tuja elsendfluo."
+        }
+    ]
+}

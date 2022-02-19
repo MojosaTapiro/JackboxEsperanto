@@ -7,7 +7,7 @@
         },
         {
             "t": "S",
-            "v": "with a spoon",
+            "v": "kulero|per kulero|perkulere|kulere",
             "n": "Keywords"
         },
         {
@@ -17,12 +17,12 @@
         },
         {
             "t": "S",
-            "v": "A spoon? Hey, better than a spork.",
+            "v": "Kulero? Almenaŭ pli bonas ol sporko",
             "n": "KeywordResponseText"
         },
         {
             "t": "S",
-            "v": "La plej malbona maniero de esti murdata",
+            "v": "La plej malbona maniero esti murdata",
             "n": "PromptText"
         },
         {

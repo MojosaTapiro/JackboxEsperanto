@@ -1,0 +1,1930 @@
+{
+    "episodeid": 1262,
+    "content": [
+        {
+            "suggestion": "Via ŝatatulo dum infantempo",
+            "id": 40958,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io, kio donas panikatakon al vi",
+            "id": 40523,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Neĝa tago",
+            "id": 40522,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Rokmuzika legendo",
+            "id": 40521,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via patriĉo dum semajnfinoj",
+            "id": 40520,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Strata huliganaĉo",
+            "id": 40519,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via unua laboro",
+            "id": 40517,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io vere aminda",
+            "id": 40516,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io ĥaosa",
+            "id": 40514,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La dormĉambro de via infaneco",
+            "id": 40512,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La plej bona donaco, kiun vi iam ajn ricevis",
+            "id": 40511,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Usonaj politikoj",
+            "id": 40510,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vi, ĉe kutima vendreda nokto",
+            "id": 40509,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malbona hundo!",
+            "id": 40508,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata televidserio",
+            "id": 40507,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Persono, kiun vi renkontos en Ĉielo",
+            "id": 40506,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Filma rolulo, kiun vi malamas",
+            "id": 40505,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Olimpika evento",
+            "id": 40504,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere paca loko",
+            "id": 40503,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Bonega tenduma loko",
+            "id": 40502,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Adaptaĵo de via plej ŝatata muzikalbumo",
+            "id": 40501,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Videoluda rolulo kiun vi amas",
+            "id": 40500,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Progresinta matematika formulo",
+            "id": 40499,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Bildo de dua mondmilito, kiu faris impreson al multaj",
+            "id": 40498,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "subokulaj ringoj",
+            "id": 41156,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "delfen-trejnisto",
+            "id": 41159,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "et-urba patriĉo",
+            "id": 41160,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "enŝlosita en karcero",
+            "id": 41162,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kapa pediko",
+            "id": 41163,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Tarzan",
+            "id": 41165,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "joga klaso",
+            "id": 41167,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "fia kato",
+            "id": 41169,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "demandi la vojon",
+            "id": 41170,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "simio kun peruko",
+            "id": 41171,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "porko en robo",
+            "id": 41172,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kantanta vakero",
+            "id": 41175,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "smokingo festo",
+            "id": 41178,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "dancanta skeleto",
+            "id": 41179,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "vakciniĝo",
+            "id": 41181,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ŝarka atako",
+            "id": 41182,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "evolucio de la homo",
+            "id": 41183,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "rajdi elefanton",
+            "id": 41184,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "rajdi testudon",
+            "id": 41185,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "glitkurado",
+            "id": 41186,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "riĉa ulo en kabrioleto",
+            "id": 41188,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Zamenhof-roboto",
+            "id": 41191,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Zeŭso",
+            "id": 41198,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "sangosojfa pengveno",
+            "id": 41199,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "feliĉa dinosaŭro",
+            "id": 41200,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Senkonscia boksisto",
+            "id": 41201,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Infana konkreso",
+            "id": 41203,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Edziĝdanco",
+            "id": 41204,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Go-o turniro",
+            "id": 41206,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malafabla vikingo",
+            "id": 41207,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "virtuala realeca kasko",
+            "id": 41202,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "finvenkista elefanto",
+            "id": 41177,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "danckonkurso",
+            "id": 41168,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la piramidoj",
+            "id": 41176,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ŝtonepoka arto",
+            "id": 40497,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la granda muro",
+            "id": 40496,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "iĉo de la 90-aj jaroj",
+            "id": 40495,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ideala burgero",
+            "id": 40494,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "rosmaro kun homa dento",
+            "id": 40493,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "manĝo, kiu kaŭzas vin naŭziĝi",
+            "id": 40492,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malbona ninĵo",
+            "id": 40491,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Franco",
+            "id": 40490,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Fama boato",
+            "id": 40489,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Belega sunsubiro",
+            "id": 40488,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Post-apokalipsa tero",
+            "id": 40473,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Loko, kie vi feliĉas",
+            "id": 40472,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Bizara miliardulo",
+            "id": 40471,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Profesia sumoisto",
+            "id": 40470,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io ŝtinka",
+            "id": 40468,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iĉo kun grandega kapo",
+            "id": 40467,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iĉo kun etegaj manoj",
+            "id": 40466,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iĉo kun intensega rigardo",
+            "id": 40465,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Eterna komencanto",
+            "id": 40464,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ĉagrenita patrino",
+            "id": 40463,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mezaĝa krizo",
+            "id": 40462,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kovrilbildo de vere malaltkvalita novelo",
+            "id": 40461,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Fiŝo, kiu aspektas stulta",
+            "id": 40460,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Rapida rapidmanĝrestauxracia dungato",
+            "id": 40459,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homaspekta kulero",
+            "id": 40458,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malbonfarita marioneto",
+            "id": 40457,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La kovrilo de via plej ŝatata libro",
+            "id": 40456,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Rolulo de via plej ŝatata sciencfikcia filmo",
+            "id": 40455,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Zamenhofo en bankuvo",
+            "id": 40454,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malegala batalo",
+            "id": 40452,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ekskurso al bierfarejo",
+            "id": 40451,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Romantika scenaĵo",
+            "id": 40449,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kunfuzita junulo",
+            "id": 40448,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ekstrema sporto",
+            "id": 40446,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via ŝatokupo",
+            "id": 40445,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata muzikisto",
+            "id": 40444,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Afiŝo, kiun vi iam havis sur via muro",
+            "id": 40443,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io senhontema",
+            "id": 40442,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mistera homo",
+            "id": 40441,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Dolĉa monstro",
+            "id": 40440,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Eksterterula homrabo",
+            "id": 40438,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "NIFO",
+            "id": 40437,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ranidoj",
+            "id": 40436,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kolera krolodilo",
+            "id": 40432,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homoj el la arbaro",
+            "id": 40431,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Hipioj",
+            "id": 40430,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Testudo, kiu mordas iun",
+            "id": 40429,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Somera tendumo",
+            "id": 40427,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Superspiono",
+            "id": 40426,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Brilecaj lumoj",
+            "id": 40425,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malsatdoloro",
+            "id": 40424,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malĝoja vampiro",
+            "id": 40423,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ekzorco",
+            "id": 40422,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ronkanto en amasloĝejo",
+            "id": 40421,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Anasa sezono",
+            "id": 40419,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "'Vestu vin malformale'-vendredo",
+            "id": 40418,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Sinvestado",
+            "id": 40417,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Finfina batalo",
+            "id": 40416,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Venĝo-planado",
+            "id": 40415,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Unuigita kun la naturo",
+            "id": 40414,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mezlernejo",
+            "id": 40413,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Punk-roko",
+            "id": 40412,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Parizo, Francio",
+            "id": 40411,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malaltklasa",
+            "id": 40401,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Senti enuon dum laboro",
+            "id": 40400,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Libereco",
+            "id": 40399,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La granda naturo",
+            "id": 40398,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Edzeco",
+            "id": 40395,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kripaj infanoj",
+            "id": 40393,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Cerba frostiĝo",
+            "id": 40392,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Banka rabado",
+            "id": 40391,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Maljuna hejmbesto",
+            "id": 40390,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Tempovojaĝado",
+            "id": 40389,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Tre falsa persono",
+            "id": 40388,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Registar-dungato",
+            "id": 40387,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu venas de la spaco",
+            "id": 40386,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io, kiu plorigas vin",
+            "id": 40384,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Sonĝo, kiun vi ofte havas",
+            "id": 40383,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io perforta",
+            "id": 40382,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej malŝatata instruisto",
+            "id": 40380,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kolera juĝisto",
+            "id": 40379,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vivo en malliberejo",
+            "id": 40378,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via prirevita aŭto",
+            "id": 40377,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ĉino",
+            "id": 40375,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Portreto de famulo",
+            "id": 40374,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io, kiu ege melodramemas",
+            "id": 40373,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io ege iĉeca",
+            "id": 40371,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kunfuzita eksterterulo",
+            "id": 40370,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Fantoma festo",
+            "id": 40369,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mojos-aspekta dinosaŭro",
+            "id": 40368,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La estonteco",
+            "id": 40365,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata raso de hundoj",
+            "id": 40363,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homo, kiun vi eble vidus en cirko",
+            "id": 40307,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu kun malbona sinkonduko",
+            "id": 40306,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homo kun vere malfacila laboro",
+            "id": 40304,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel pasi vian someran ferion",
+            "id": 40303,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Memzorgejo post unu semajno",
+            "id": 40302,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel homoj aspektos en la estonteco",
+            "id": 40301,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere bonŝanca homo",
+            "id": 40300,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu havas malbonan tagon",
+            "id": 40299,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io vere bela de naturo",
+            "id": 40298,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vidindaĵo, kiun vi vere ŝatus viziti",
+            "id": 40296,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malbona bebovartisto",
+            "id": 40294,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Rolulo de horora filmo",
+            "id": 40293,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Rolulo de komiksa libro",
+            "id": 40292,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homo kun malbona gusto pri modo",
+            "id": 40291,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu anticipus trinkmonon",
+            "id": 40290,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu pretas por la batalo",
+            "id": 40289,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere patriota homo",
+            "id": 40287,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Famulo kiel bebo",
+            "id": 40286,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io, kiun vi eble vidus ĉe tendumado",
+            "id": 40284,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io, kiun vi vidas kiel la unua afero en la mateno",
+            "id": 40283,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vi ne volas, ke tio rampas sur via korpo:",
+            "id": 40281,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La plej aminda bestido",
+            "id": 40280,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel vi esperas aspekti dum maljuneco",
+            "id": 40279,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu de brazilo",
+            "id": 40278,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu kun multe da mono",
+            "id": 40277,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homoj kiuj amas sportumadon",
+            "id": 40276,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege serioza homo",
+            "id": 40275,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Drinkejo je la 4a matene",
+            "id": 40273,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere mojosa veturilo",
+            "id": 40272,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata monstro",
+            "id": 40270,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Besto de afriko",
+            "id": 40269,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Maskovesto, kiun vi surmetis por haloveno",
+            "id": 40267,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kion vi volis iĝi kiam vi estis infano",
+            "id": 40266,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Persono, kiun vi ne povas toleri",
+            "id": 40265,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Familia foto",
+            "id": 40263,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Fama artaĵo",
+            "id": 40262,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Sceno de la biblio",
+            "id": 40260,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Fia besto",
+            "id": 40259,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata sciencfikcia rolulo",
+            "id": 40258,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej malŝatata muzikisto",
+            "id": 40257,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "brileca superstelulo",
+            "id": 40256,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege malsana homo",
+            "id": 40255,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu de la 1800-aj jaroj",
+            "id": 40254,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Seria murdisto",
+            "id": 40253,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata desegnofilma rolulo",
+            "id": 40252,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Terura hejmbesto",
+            "id": 40251,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Granda hasto",
+            "id": 40250,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Memfida oceana besto",
+            "id": 40248,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, al kiu vi ne fidu",
+            "id": 40247,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere ŝtinka laboro",
+            "id": 40246,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege saĝa besto",
+            "id": 40245,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu kun granda korpoparto",
+            "id": 40244,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Bestoj, kiuj provas esti mojosaj",
+            "id": 40243,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malbona sidnajbaro en aviadilo",
+            "id": 40242,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Romantika komedio",
+            "id": 40241,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Amikoj, kiuj ĝuas rondon de Jackbox-ludo kune",
+            "id": 40240,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu venas de rusujo",
+            "id": 40239,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu kiu amas manĝon",
+            "id": 40238,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege klaĉema homo",
+            "id": 40237,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege verkema persono",
+            "id": 40236,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ukulela orkestro",
+            "id": 40235,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Koleriĝo dum ŝoforado",
+            "id": 40233,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege seksalloga homo",
+            "id": 40232,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege stulta homo",
+            "id": 40231,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ege inteligenta homo",
+            "id": 40230,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Persono de la 1930-aj jaroj",
+            "id": 40229,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Franco",
+            "id": 40228,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Greka dio",
+            "id": 40227,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kelkaj scientistoj",
+            "id": 40226,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Amo kaj teo kontribuo",
+            "id": 40225,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Infana televida elsendo",
+            "id": 40224,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Besta edziĝfesto",
+            "id": 40223,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Homo kontraŭ naturo",
+            "id": 40222,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel vi allogus potencialan kunulon",
+            "id": 40221,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "La fino de la mondo",
+            "id": 40220,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere timiga vizaĝo",
+            "id": 40219,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mezepoko",
+            "id": 41056,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Internacia vespero",
+            "id": 41063,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kolbasbulkmanĝkonkurso",
+            "id": 41065,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io kristnaskeca",
+            "id": 41005,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Feliĉa liveristo",
+            "id": 41069,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Riĉula festo",
+            "id": 41006,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ski-filmo de la 80-aj jaroj",
+            "id": 41010,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ventra danco",
+            "id": 41075,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "panika astronaŭto",
+            "id": 41076,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "parlamenta diskuto",
+            "id": 41013,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kripa neĝulo",
+            "id": 41077,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "robota servistino",
+            "id": 41078,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "mezlernejaj instruistoj",
+            "id": 41015,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "inteligentegulo",
+            "id": 41079,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "harbendo de la 80-aj jaroj",
+            "id": 41048,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "malafabla infano",
+            "id": 41050,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu, kiu havis belecoperacion",
+            "id": 41052,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kolera homamaso",
+            "id": 41053,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "organiza komitata kunsido",
+            "id": 41055,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu maldunganta iun alian",
+            "id": 40218,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Eterna komencanto",
+            "id": 40217,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vivo sur alia planedo",
+            "id": 40216,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Floro kun la vizaĝo de famulo",
+            "id": 40215,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Famulo dum ri faras ion mojosan",
+            "id": 40214,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via ĉiutaga ritualo",
+            "id": 40213,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej granda heroo",
+            "id": 40212,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere dolĉa frandaĵo",
+            "id": 40211,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata manĝo",
+            "id": 40210,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata mitologia estaĵo",
+            "id": 40202,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu de Eŭropo",
+            "id": 40200,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Aĉa loko por vivi",
+            "id": 40197,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel riĉulo elspezas sian monon",
+            "id": 40196,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io de ekstertere",
+            "id": 40195,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "formortinta besto",
+            "id": 40194,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere malvarma loko",
+            "id": 40190,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vere varma loko",
+            "id": 40189,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Kiel vi ŝatas elspezi libertempon",
+            "id": 40188,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Laboro, kiun vi ŝatus fari",
+            "id": 40187,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Historia persono de la lastaj 100 jaroj",
+            "id": 40186,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plej ŝatata atleto",
+            "id": 40184,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Krima ago",
+            "id": 40183,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Perfekta feria loko",
+            "id": 40182,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Sceno de batalfilmo",
+            "id": 40180,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Mojosega hejmbesto",
+            "id": 40179,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Subakva vivo",
+            "id": 40178,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kolera baletistino",
+            "id": 41233,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Malafabla kelnero",
+            "id": 41232,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Enua amrendevuo",
+            "id": 41231,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu en la ĉambro",
+            "id": 41230,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Koŝmaro, kiun vi havis",
+            "id": 41229,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Via plaj malŝatata familiano",
+            "id": 41228,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Io naŭza",
+            "id": 41227,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Ludo, kiun vi ludis kiel infano",
+            "id": 41226,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Heraklo",
+            "id": 41246,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kapon en la sablon",
+            "id": 41294,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Pasinta jardeko, kiun vi ŝatus viziti",
+            "id": 41416,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "bestara ribelo",
+            "id": 41424,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "sceno de malnova filmo",
+            "id": 41427,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la plej malbona infano",
+            "id": 41428,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "dumsomera amuziĝo",
+            "id": 41552,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la mallumaj tempoj",
+            "id": 41573,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "artefarita intelekto",
+            "id": 41596,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "mojosa superpovo",
+            "id": 41595,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "nerda vivo",
+            "id": 41594,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "permikroba militado",
+            "id": 41590,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "malvarmaj piedoj",
+            "id": 41587,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "pigraj tagoj",
+            "id": 41585,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "artoj kaj metioj",
+            "id": 41581,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "montru viajn aferojn",
+            "id": 41580,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la 90-aj",
+            "id": 41575,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "enurba vivo",
+            "id": 41574,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "bona buŝa higieno",
+            "id": 41571,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "gitara solo",
+            "id": 41568,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "deksesa naskiĝtago",
+            "id": 41569,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "imaga amiko",
+            "id": 41564,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "aspekti krueleca",
+            "id": 41562,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "danĝera profesio",
+            "id": 41560,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "magieca infanvartisto",
+            "id": 41559,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "magia arbaro",
+            "id": 41558,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "adoleskula timemeco",
+            "id": 41556,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "manĝĉeno",
+            "id": 41550,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "glavaj kapabloj",
+            "id": 41549,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "frandemeco",
+            "id": 41548,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "recikligo",
+            "id": 41547,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "hejme sur la bovbieno",
+            "id": 41468,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "reaktorado de la usona civila milito",
+            "id": 41467,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "sekreta ĝardeno",
+            "id": 41460,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "bonega dancisto",
+            "id": 41459,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "bufedo, kie vi rajtas manĝi, kiom vi volas ",
+            "id": 41457,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "reĝo de nenio",
+            "id": 41456,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "eksenlime",
+            "id": 41455,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "bona patriĉa-filiĉa rilato",
+            "id": 41452,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "stranga parado",
+            "id": 41450,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "stranga manĝo-liverado",
+            "id": 41449,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "afiŝo, kiun oni vidus en amasloĝejo",
+            "id": 41448,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la mezo de la terglobo",
+            "id": 41446,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ruinigi naskiĝtagan feston",
+            "id": 41443,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "amo en estonteco",
+            "id": 41442,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "robotaj beboj",
+            "id": 41441,
+            "type": "Slogano-sugesto"
+        },
+        {
+            "suggestion": "Embarasiga situacio",
+            "id": 41439,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "terura sorĉisto",
+            "id": 41438,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "fabela rolulo",
+            "id": 41437,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "gigantuloj dum amuzado",
+            "id": 41436,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "interreta UK",
+            "id": 41435,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "vendi vian animon",
+            "id": 41434,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via plej ŝatata fikcia lando",
+            "id": 41433,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "socia distancado",
+            "id": 41432,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Vera malsukcesulo",
+            "id": 41431,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via plej ŝatata hobio",
+            "id": 41430,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "familia ferio",
+            "id": 41419,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "la persono en la centro de la festo",
+            "id": 41418,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Persono kiu faras vere malbonajn aferojn",
+            "id": 41414,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "malpurega laboro",
+            "id": 41412,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "ege brita persono",
+            "id": 41411,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu kiu manĝas ion ege grandan",
+            "id": 41410,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "du sportmanieroj, kunmiksitaj",
+            "id": 41409,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via plej ŝatata malvarm-vetera besto",
+            "id": 41408,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "plaĝa aktivo",
+            "id": 41407,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "iu malĝoja",
+            "id": 41406,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Arbo, kiu kreskigas ion, kiun ĝi ne devus kreskigi",
+            "id": 41405,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "besto, kiu enketas krimon",
+            "id": 41404,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "miraklo",
+            "id": 41308,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "hantita pupo",
+            "id": 41307,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "abstrakta artaĵo",
+            "id": 41306,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kegloluda ĉampiono",
+            "id": 41304,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "mojosa stuntisto",
+            "id": 41299,
+            "type": "Slogano-sugesto"
+        },
+        {
+            "suggestion": "malantaŭ baroj",
+            "id": 41295,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "reen de la mortintoj",
+            "id": 41293,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "vizaĝa haro",
+            "id": 41292,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via plej ŝatata realeca televidelsendo",
+            "id": 41291,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "aktoranta besto",
+            "id": 41288,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via infaneca heroo",
+            "id": 41287,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "pokerludanto",
+            "id": 41286,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kapitano",
+            "id": 41285,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "krima ago",
+            "id": 41283,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "vestaĵoj kiuj tro grandas",
+            "id": 41282,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "saŭna tago",
+            "id": 41281,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "mararmeo",
+            "id": 41280,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "perdita en dezerto",
+            "id": 41279,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "via plej ŝatata kuko",
+            "id": 41275,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "Iu de la estonteco",
+            "id": 41272,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "epopea batalo",
+            "id": 41271,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "fantomhantita domo",
+            "id": 41270,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kirurgo",
+            "id": 41268,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "modelo en modparado",
+            "id": 41267,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "unuhoma muzikgrupo",
+            "id": 41266,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "samurajo",
+            "id": 41265,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "eltiri kuniklon de ĉapo",
+            "id": 41264,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kuŝlado",
+            "id": 41262,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "magieca unukornul-rajdo",
+            "id": 41259,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "koalo",
+            "id": 41255,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "surŝnura paŝado",
+            "id": 41251,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "rodeo pajaco",
+            "id": 41245,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "medika masko, uzata malĝuste",
+            "id": 41244,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "kepsiko-manĝkonkurso",
+            "id": 41243,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "homo, kiu rajdas mekanikan rodeo-taŭron",
+            "id": 41241,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "profesoro",
+            "id": 41239,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "falanta stelo",
+            "id": 41240,
+            "type": "Pentrosugesto"
+        },
+        {
+            "suggestion": "romantikema homo",
+            "id": 40175,
+            "type": "Pentrosugesto"
+        }
+    ]
+}

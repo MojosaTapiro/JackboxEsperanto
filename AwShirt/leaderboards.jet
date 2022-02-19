@@ -1,0 +1,36 @@
+{
+    "views": [
+        {
+            "id": "session",
+            "name": "Seancstatistiko",
+            "description": "Statistiko de la aktuala seanco (Tiu statistiko malaperas kiam vi ĉesas la ludon.)"
+        },
+        {
+            "id": "twitch",
+            "name": "Twitch Statistiko",
+            "description": "Statistikoj de ludoj ŝlositaj per Twitch (Tiuj statistikoj estas konservitaj eĉ kiam vi ĉesas la ludon.)"
+        }
+    ],
+    "columns": [
+        {
+            "id": "playerName",
+            "name": "Ludantnomo"
+        },
+        {
+            "id": "gamesWon",
+            "name": "Ludoj Venkataj"
+        },
+        {
+            "id": "roundsWon",
+            "name": "Rondoj Venkitaj"
+        },
+        {
+            "id": "streaksWon",
+            "name": "Sinsekvoj Venkitaj"
+        },
+        {
+            "id": "shirtalities",
+            "name": "Ĉemistrofoj"
+        }
+    ]
+}
